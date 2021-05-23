@@ -1,2 +1,2 @@
 # Deep-Learning
-This project focuses on creating a machine learning algorithm to detect fraud in the insurance industry. 
+This project focuses on using different neural networks in predicting fraud in the insurance sector, distinguishing categories of birds and predicting future energy demand in households.
